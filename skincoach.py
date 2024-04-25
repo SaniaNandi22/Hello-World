@@ -57,8 +57,6 @@ recommend_button.pack()
 recommend_button.place(relx=0.5, rely=0.7, anchor=tk.CENTER)
 
 # Create a label to display recommended routine
-#result_label = tk.Label(window, text="")
-#result_label.pack()
 result_label = tk.Label(window, text="", font=("Helvetica", 14), wraplength=400, justify=tk.LEFT)
 result_label.pack()
 result_label.place(relx=0.5, rely=0.75, anchor=tk.CENTER)
