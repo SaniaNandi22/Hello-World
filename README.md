@@ -1,2 +1,2 @@
-# Hello-World
-This is a simple Hello World program written in C language
+Skincare Recommendation
+This is a basic skincare recommendation whih needs more complexity to develop 
