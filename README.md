@@ -1,2 +1,2 @@
 Skincare Recommendation
-This is a basic skincare recommendation whih needs more complexity to develop 
+This is a basic skincare recommendation which needs more complexity to develop 
